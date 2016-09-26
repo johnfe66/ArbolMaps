@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ArbolMaps</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_mi_gps">Map</string>
+</resources>
